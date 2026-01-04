@@ -1,0 +1,6 @@
+This repo contains Terraform code I use to create AWS infrastructure in a clean and manageable way.
+
+I’ve kept all values at the root level so the modules can be reused without changes.
+The backend is configured separately to avoid state-related issues.
+
+Nothing fancy here — just a structure that works well in real projects.

@@ -10,4 +10,4 @@ instance_type  = "t3.micro"
 instance_count = 2
 
 bucket_name = "my-prodfs-s3-bucket"
-bucket_acl  = "private"
+

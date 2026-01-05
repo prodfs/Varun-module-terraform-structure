@@ -10,4 +10,4 @@ variable "instance_type" {}
 variable "instance_count" {}
 
 variable "bucket_name" {}
-variable "bucket_acl" {}
+
